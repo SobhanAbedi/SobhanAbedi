@@ -18,7 +18,14 @@ In 2018 summer, I got my first 3D Printer (an Ender3), and during the past 5 yea
 </p>
 Note: HTML has been removed to have a better separation of other languages
 
-## My fields of interests
+## My fields of interest
+- 🤖Artificial Intelligence and Deep Neural Networks
+- 🦾Embedded Systems
+- 🏃‍♂️Hardware Accelerators
+- 🌐IOT
+- 🔎Instrumentation
+- 🔱Distributed Computing
+- 🎮Video Games 
 
 ## Work Experiences
 I've had a wide range of interests and during the past three summers, I Interned in three different fields
@@ -31,6 +38,22 @@ SinaMed specializes in robotic surgery equipment. There I worked on the simulati
 
 ### <a href="https://cs.ipm.ac.ir/">IPM School of Computer Science</a> (2023 summer)
 During this internship, I studied and worked under PD.FELLOW Hajar Falahati in the field of Human Emotion Detection and Efficient Neural Networks.
+
+## Contact me
+<div align="center">
+ <a href="https://SobhanAbedi.github.io/">
+    <img src="https://img.shields.io/badge/Webpage-%2351A33D?style=for-the-badge&logo=codementor&logoColor=white" alt="Website Badge"/>
+  </a>
+  &nbsp;
+  <a href="mailto:abedi.sobhan2000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://join.skype.com/invite/u3XzYegQabBU">
+    <img src="https://img.shields.io/badge/Skype-%2300AFF0?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype Badge"/>
+  </a>
+  
+</div>
 
 <!--
 **SobhanAbedi/SobhanAbedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
