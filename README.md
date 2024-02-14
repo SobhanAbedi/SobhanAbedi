@@ -41,15 +41,19 @@ During this internship, I studied and worked under PD.FELLOW Hajar Falahati in t
 
 ## Contact me
 <div align="center">
- <a href="https://SobhanAbedi.github.io/">
+  <a href="https://www.linkedin.com/in/sobhan-abedi-3391402b4/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://SobhanAbedi.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Webpage-%2351A33D?style=for-the-badge&logo=codementor&logoColor=white" alt="Website Badge"/>
   </a>
   &nbsp;
-  <a href="mailto:abedi.sobhan2000@gmail.com">
+  <a href="mailto:abedi.sobhan2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   &nbsp;
-  <a href="https://join.skype.com/invite/u3XzYegQabBU">
+  <a href="https://join.skype.com/invite/u3XzYegQabBU" target="_blank">
     <img src="https://img.shields.io/badge/Skype-%2300AFF0?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype Badge"/>
   </a>
   
