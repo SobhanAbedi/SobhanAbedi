@@ -10,6 +10,12 @@ I started my B.Eng. in Biomedical Engineering in 2018 at Amirkabir University of
 
 In 2018 summer, I got my first 3D Printer (an Ender3), and during the past 5 years, I've been tinkering with its Mechanics and Electronics to the point that now I have thousands of hours of experience in CAD/CAM and multiple experiences with register level programming for Integrated Circuits. Currently, I'm designing and building an open-source 3d printer based on Voron Trident.
 
+<div align="center">
+  <a href="https://github.com/SobhanAbedi/SobhanAbedi/blob/main/CV_SobhanAbedi.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV-orange?style=for-the-badge&logo=codementor" alt="CV Badge"/>
+  </a>  
+</div>
+
 ## Project statistics
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sobhanabedis-projects.vercel.app/api?username=SobhanAbedi&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry"/>
